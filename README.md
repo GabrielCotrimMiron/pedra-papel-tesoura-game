@@ -4,7 +4,7 @@
 
 Este é um jogo interativo de Pedra, Papel ou Tesoura desenvolvido com JavaScript. O jogo solicita a idade do usuário e, se permitido, inicia a partida contra o computador.  
 
-🚀 **Acesse o projeto online:** [Clique aqui](https://gabrielcotrimmiron.github.io/pedra-papel-tesoura/)
+🚀 **Acesse o projeto online:** [Clique aqui](https://gabrielcotrimmiron.github.io/pedra-papel-tesoura-game/)
 
 ## 📌 Como Funciona?  
 - O jogador informa sua idade para verificar a permissão de jogo.  
