@@ -1,6 +1,6 @@
 # Pedra, Papel ou Tesoura ✊📄✂️  
 
-![Prévia do Projeto](Images/pedra_papel_tesoura_github.png)
+![Prévia do Projeto](Images/backgroundgithub.png)
 
 Este é um jogo interativo de Pedra, Papel ou Tesoura desenvolvido com JavaScript. O jogo solicita a idade do usuário e, se permitido, inicia a partida contra o computador.  
 
