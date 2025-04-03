@@ -19,8 +19,10 @@ Este é um jogo interativo de Pedra, Papel ou Tesoura desenvolvido com JavaScrip
 - **JavaScript**  
 
 ## 🎯 Implementações Extras  
-✅ Solicitação do nome do usuário para tornar a experiência mais personalizada.  
-✅ Utilização de `else if` e `&&` para otimizar a estrutura condicional.  
-✅ Exibição do nome do jogador nas mensagens de resultado.  
+✅ Solicitação do nome do usuário para tornar a experiência mais personalizada.
+✅ Verificação da idade do usuário antes de iniciar o jogo.
+✅ Validação para garantir que o nome não contenha números.
+✅ Utilização de else if e && para otimizar a estrutura condicional.
+✅ Exibição do nome do jogador nas mensagens de resultado. 
 
 💡 **Este projeto foi desenvolvido na Imersão Dev 9ª Edição da Alura, aprimorado com desafios extras para tornar a experiência mais envolvente!**  
