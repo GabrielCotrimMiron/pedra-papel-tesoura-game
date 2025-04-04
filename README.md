@@ -25,4 +25,6 @@ Este é um jogo interativo de Pedra, Papel ou Tesoura desenvolvido com JavaScrip
 - ✅ Utilização de else if e && para otimizar a estrutura condicional.
 - ✅ Exibição do nome do jogador nas mensagens de resultado. 
 
+---
+
 💡 **Este projeto foi desenvolvido durante a Imersão Dev 9ª Edição da Alura, com adaptações e melhorias pessoais aplicadas na lógica e na interface.**
