@@ -28,3 +28,7 @@ Este é um jogo interativo de Pedra, Papel ou Tesoura desenvolvido com JavaScrip
 ---
 
 💡 **Este projeto foi desenvolvido durante a Imersão Dev 9ª Edição da Alura, com adaptações e melhorias pessoais aplicadas na lógica e na interface.**
+
+---
+
+📧 **Contato:** gabrielcotrimmiron@gmail.com
