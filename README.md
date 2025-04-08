@@ -31,4 +31,4 @@ Este é um jogo interativo de Pedra, Papel ou Tesoura desenvolvido com JavaScrip
 
 ---
 
-📧 **Contato:** gabrielcotrimmiron@gmail.com
+📧 **Contato:** gabrielcmiron@gmail.com
